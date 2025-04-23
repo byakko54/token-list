@@ -1,9 +1,9 @@
 {
   "chainId": 101,
-  "address": "HmNB6BmifyYrCQofJhoFb6j4ae6j7VdckqHqijbLhGh", 
+  "address": "HmNB6BmifyYrCQofJhoFb6j4ae6j7VdckqHqijbLhGh",
   "symbol": "CJ",
   "name": "CJ Coin",
   "decimals": 9,
-  "logoURI": "https://imgur.com/a/93QjZ18",
+  "logoURI": "https://i.imgur.com/S3SKHpF.png",
   "tags": ["community", "meme"]
 }
